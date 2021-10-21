@@ -1,6 +1,9 @@
 # Website
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.</br>
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c932515b-6dd9-4818-a61a-509c34f21d1b/deploy-status)](https://documentation-tutorial.netlify.app/)
+
 
 ### Installation
 
