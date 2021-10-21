@@ -9,7 +9,7 @@ const config = {
   title: 'Documentation',
   tagline: 'Make documentations for your Project',
   url: 'https://Abhi6722.github.io',
-  baseUrl: '/',
+  baseUrl: '/Documentation/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
